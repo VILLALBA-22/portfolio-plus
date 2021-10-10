@@ -23,7 +23,7 @@ setTimeout(() => {
 //Component Work
 const works = work => {
 	return `
-		<article class="proyect" >
+		<article class="proyect" style="opacity:0;" >
 			<div class="proyect-info" style="background-image: linear-gradient(
 				90deg,
 				rgba(0, 52, 89, 0.9) 0%,
@@ -172,6 +172,7 @@ function buildThresholdList() {
 }
 let options = {
 	threshold: buildThresholdList(),
+	rootMargin: '10px 0px',
 }
 let defaultTranslate = -200
 const callback = (entries, observer) => {

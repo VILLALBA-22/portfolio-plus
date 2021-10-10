@@ -1,6 +1,22 @@
 [
 	{
 		"topic": "Frontend",
+		"title": "Países REST API",
+		"description": "Aplicación web donde podras filtrar países y ver los infomación detallada de cada uno, puedes cambiar de tema.",
+		"stack": [
+			"React",
+			"React router",
+			"React-redux",
+			"Material UI",
+			"Redux Thunk",
+			"APIs"
+		],
+		"url_image": "./assets/images/countries-api.png",
+		"url_repo": "https://github.com/VILLALBA-22/react-redux-api-countries",
+		"url_live": "https://evening-plains-85772.herokuapp.com/"
+	},
+	{
+		"topic": "Frontend",
 		"title": "Job Filter",
 		"description": "Un pequeño ejercicio con react donde se filtra dependiendo de los atributos de las propuestas.",
 		"stack": ["React", "StyledComponenst", "Git", "Flexbox"],
