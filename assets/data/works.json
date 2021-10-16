@@ -51,15 +51,6 @@
 	},
 	{
 		"topic": "Frontend",
-		"title": "Calculator",
-		"description": "Calculator with basic functions and where you can change the theme and it is saved.",
-		"stack": ["JS", "Git", "Flexbox", "Grid"],
-		"url_image": "./assets/images/calculadora.png",
-		"url_repo": "https://github.com/VILLALBA-22/calculator/",
-		"url_live": "https://villalba-22.github.io/calculator/"
-	},
-	{
-		"topic": "Frontend",
 		"title": "G.M.G.F.",
 		"description": "Page for a school designed as a team using grid and flex, fully responsive.",
 		"stack": ["JS", "Flexbox", "Grid", "work in team"],
