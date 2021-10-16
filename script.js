@@ -102,7 +102,7 @@ $form.addEventListener('submit', e => {
 	if (test1 || test2) {
 		let $notification = d.createElement('div')
 		$notification.classList.add('notification')
-		$notification.textContent = 'Llena correctamente los campos'
+		$notification.textContent = 'Fill in the fields correctly'
 		$notifications.appendChild($notification)
 		setTimeout(() => {
 			$notification.style.opacity = '0'
@@ -128,10 +128,10 @@ $form.addEventListener('submit', e => {
 		})
 			.then(() => {
 				$form.reset()
-				$statusForm.innerHTML = `<p style="color: var(--third-color);">Formulario enviado exitosamente, te estaré contactando!</p>`
+				$statusForm.innerHTML = `<p style="color: var(--third-color);">Form sent successfully, I'll be contacting you!</p>`
 			})
 			.catch(() => {
-				$statusForm.innerHTML = `<p style="color: red;">Hubo un error en el envío, inténtalo más tarde o prueba otro método de contacto</p>`
+				$statusForm.innerHTML = `<p style="color: red;">There was an error sending, please try again later or try another contact method</p>`
 			})
 	}
 })

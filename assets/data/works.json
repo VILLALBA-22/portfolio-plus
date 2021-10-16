@@ -1,8 +1,8 @@
 [
 	{
 		"topic": "Frontend",
-		"title": "Países REST API",
-		"description": "Aplicación web donde podras filtrar países y ver los infomación detallada de cada uno, puedes cambiar de tema.",
+		"title": "Countries REST API",
+		"description": "Web application where you can filter countries and see the detailed information of each one, you can change the theme.",
 		"stack": [
 			"React",
 			"React router",
@@ -17,8 +17,24 @@
 	},
 	{
 		"topic": "Frontend",
+		"title": "Weather app",
+		"description": "Weather application where you can see the 5 days forecast and detailed information for the current day.",
+		"stack": [
+			"React",
+			"StyledComponenst",
+			"Git",
+			"Flexbox",
+			"Context",
+			"useReducer"
+		],
+		"url_image": "./assets/images/wheather-app.png",
+		"url_repo": "https://github.com/VILLALBA-22/Weather-app",
+		"url_live": "https://infinite-forest-60534.herokuapp.com/"
+	},
+	{
+		"topic": "Frontend",
 		"title": "Job Filter",
-		"description": "Un pequeño ejercicio con react donde se filtra dependiendo de los atributos de las propuestas.",
+		"description": "A small exercise with react where it is filtered depending on the attributes of the proposals.",
 		"stack": ["React", "StyledComponenst", "Git", "Flexbox"],
 		"url_image": "./assets/images/job-filter.png",
 		"url_repo": "https://github.com/VILLALBA-22/react-job-filter",
@@ -27,7 +43,7 @@
 	{
 		"topic": "Frontend",
 		"title": "IP Address Tracker",
-		"description": "A partir de una IP o nombre de dominio ingresado te muestra varios datos de la misma y la ubicación física.",
+		"description": "From an IP or domain name entered, it shows you various information about it and the physical location.",
 		"stack": ["JS", "Ajax", "Git", "Flexbox", "Axios"],
 		"url_image": "./assets/images/ip-addres.png",
 		"url_repo": "https://github.com/VILLALBA-22/IP-Address-Tracker",
@@ -35,8 +51,8 @@
 	},
 	{
 		"topic": "Frontend",
-		"title": "Calculadora",
-		"description": "Calculadora con funciones básicas y en donde puedes cambiar el tema y se guarda.",
+		"title": "Calculator",
+		"description": "Calculator with basic functions and where you can change the theme and it is saved.",
 		"stack": ["JS", "Git", "Flexbox", "Grid"],
 		"url_image": "./assets/images/calculadora.png",
 		"url_repo": "https://github.com/VILLALBA-22/calculator/",
@@ -45,16 +61,16 @@
 	{
 		"topic": "Frontend",
 		"title": "G.M.G.F.",
-		"description": "Página para un colegio maquetada en equipo utilizando grid y flex, totalmente responsive.",
-		"stack": ["JS", "Flexbox", "Grid", "Trabajo en equipo"],
+		"description": "Page for a school designed as a team using grid and flex, fully responsive.",
+		"stack": ["JS", "Flexbox", "Grid", "work in team"],
 		"url_image": "./assets/images/gmgf.png",
 		"url_repo": "https://github.com/david-avellaneda-git/G.M.G.F",
 		"url_live": "https://sad-rosalind-3d2ffc.netlify.app/"
 	},
 	{
 		"topic": "WordPress",
-		"title": "Rizos felices",
-		"description": "Página web e-commerce construida en WordPress con código personalizado, construcción de marca e identidad.",
+		"title": "Happy curls",
+		"description": "E-commerce website built in WordPress with custom code, brand and identity construction.",
 		"stack": ["JS", "WordPress", "Woocommerce", "CSS"],
 		"url_image": "./assets/images/rizos.png",
 		"url_repo": "",
@@ -62,8 +78,8 @@
 	},
 	{
 		"topic": "WordPress",
-		"title": "Familias saludables",
-		"description": "Página web corporativa construida en WordPress. El objetivo central fue crear una identidad sólida.",
+		"title": "Healthy families",
+		"description": "Corporate website built in WordPress. The central objective was to create a solid identity.",
 		"stack": ["JS", "WordPress", "CSS"],
 		"url_image": "./assets/images/familias-saludables.png",
 		"url_repo": "",
