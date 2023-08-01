@@ -1,44 +1,27 @@
 [
 	{
 		"topic": "Frontend",
-		"title": "Countries REST API",
-		"description": "Web application where you can filter countries and see the detailed information of each one, you can change the theme.",
-		"stack": [
-			"React",
-			"React router",
-			"React-redux",
-			"Material UI",
-			"Redux Thunk",
-			"APIs"
-		],
-		"url_image": "./assets/images/countries-api.png",
-		"url_repo": "https://github.com/VILLALBA-22/react-redux-api-countries",
-		"url_live": "https://evening-plains-85772.herokuapp.com/"
+		"title": "Beu creators",
+		"description": "Web application for content creators, including payments, upload content, feed, profile and much more modules.",
+		"stack": ["React", "Next", "Apollo", "StyledComponenst", "Recoil", "APIs"],
+		"url_image": "./assets/images/beu-home.png",
+		"url_repo": "",
+		"url_live": "https://beu.is/"
 	},
 	{
 		"topic": "Frontend",
-		"title": "Weather app",
-		"description": "Weather application where you can see the 5 days forecast and detailed information for the current day.",
+		"title": "Product feedback app",
+		"description": "Web application to receive feedback, including filters, forms, state management, animations and much more.",
 		"stack": [
 			"React",
-			"StyledComponenst",
-			"Git",
-			"Flexbox",
-			"Context",
-			"useReducer"
+			"React hook form",
+			"React transition group",
+			"Redux",
+			"Redux persist"
 		],
-		"url_image": "./assets/images/wheather-app.png",
-		"url_repo": "https://github.com/VILLALBA-22/Weather-app",
-		"url_live": "https://fervent-edison-f0969a.netlify.app/"
-	},
-	{
-		"topic": "Frontend",
-		"title": "Job Filter",
-		"description": "A small exercise with react where it is filtered depending on the attributes of the proposals.",
-		"stack": ["React", "StyledComponenst", "Git", "Flexbox"],
-		"url_image": "./assets/images/job-filter.png",
-		"url_repo": "https://github.com/VILLALBA-22/react-job-filter",
-		"url_live": "https://murmuring-tor-28438.herokuapp.com/"
+		"url_image": "./assets/images/feedback.png",
+		"url_repo": "https://github.com/VILLALBA-22/product-feedback",
+		"url_live": "https://quizzical-liskov-0bd86c.netlify.app/"
 	},
 	{
 		"topic": "Frontend",
